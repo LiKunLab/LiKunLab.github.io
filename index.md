@@ -1,4 +1,4 @@
-## Welcome to Social Circuit Lab
+## Welcome to Social Circuit Lab :wink:
 
 You can use the [editor on GitHub](https://github.com/LiKunLab/LiKunLab.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
