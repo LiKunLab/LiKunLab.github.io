@@ -1,5 +1,7 @@
 ## People
 
+[PI](#pi) | [Postdoc fellow](#postdoc-fellow) | [Lab manager](#lab-manager) | [Graduates](#graduates) | [Technicians](#technicians) | [Undergraduates](#undergraduates) | [Alumni](#alumni) 
+
 ### PI
 
 <div><table frame=void>	<!--用了<div>进行封装-->
@@ -28,7 +30,7 @@ Guohua Yuan
 ### Lab manager
 Yue Li
 
-### Ph.D students/candidates
+### Graduates
 Liqiang Wei
 
 Mengyi Tian
