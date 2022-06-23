@@ -1,4 +1,4 @@
-## Welcome to Social Circuit Lab :wink:
+## Welcome to Social Circuit Lab
 
 To learn more, check out our research and publications.
 
