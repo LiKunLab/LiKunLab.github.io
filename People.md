@@ -14,7 +14,7 @@
 
 Dr. Kun Li
 
-Associate Professor, School of Life Science, Tsinghua University
+Assistant Professor, School of Life Science, Tsinghua University
 
 PI, IDG/McGovern Institute, Tsinghua University
 
